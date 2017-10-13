@@ -1,0 +1,27 @@
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #555;
+	margin: : 0 auto;
+	text-align: center;
+}
+h1 {
+	//text-align: center;
+	margin-top: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	color: #333;
+}
+ul {
+	margin: 5px auto;
+}
+li{
+	padding: 5px;
+	list-style: none;
+}
+p{
+	font-size: 1.5em;
+	color: #3a1e4b;
+}
+a{
+	font-size: 1.1em;
+}
